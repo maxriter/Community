@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Community:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringSecurity.war">
+      <element id="artifact" artifact-name="Community:war exploded" />
+    </root>
+  </artifact>
+</component>

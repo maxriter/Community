@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Community.iml" filepath="$PROJECT_DIR$/Community.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core api/core api.iml" filepath="$PROJECT_DIR$/core api/core api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core impl/core impl.iml" filepath="$PROJECT_DIR$/core impl/core impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/dao.iml" filepath="$PROJECT_DIR$/dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desktop UI/desktop UI.iml" filepath="$PROJECT_DIR$/desktop UI/desktop UI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+    </modules>
+  </component>
+</project>

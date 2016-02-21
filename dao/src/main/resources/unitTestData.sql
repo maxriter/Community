@@ -1,0 +1,24 @@
+INSERT INTO ROLE (TYPE)
+VALUES ('USER');
+
+INSERT INTO ROLE (TYPE)
+VALUES ('ADMIN');
+
+INSERT INTO ROLE (TYPE)
+VALUES ('VIP');
+
+INSERT INTO CONTACT (USERNAME, PASSWORD, FIRST_NAME, LAST_NAME, DATE_BIRTH, PHONE, STATE)
+VALUES ('user1', '$2a$10$sWZ6p2zfazz6v5iOtF/A/.c9WZYvaDzBO/UKhIrYVjzPfJnuV0uhq', 'User1 First Name', 'User1 Last Name', '1900-01-01',
+        '123456789', 'Active');
+
+INSERT INTO CONTACT (USERNAME, PASSWORD, FIRST_NAME, LAST_NAME, DATE_BIRTH, PHONE, STATE)
+VALUES ('user2', '$2a$10$sWZ6p2zfazz6v5iOtF/A/.c9WZYvaDzBO/UKhIrYVjzPfJnuV0uhq', 'User2 First Name', 'User2 Last Name', '1900-01-01',
+        '123456789', 'Active');
+
+INSERT INTO HOBBY (TITLE, DESCRIPTION)
+VALUES ('jogging', 'just do it');
+
+INSERT INTO PLACE (TITLE, DESCRIPTION, LATITUDE, LONGITUDE)
+VALUES ('Zurich', 'Europe''s largest clock face is located in Zurich', 47.22, 8.32);
+
+
